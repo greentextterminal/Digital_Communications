@@ -1,5 +1,5 @@
 # DigitalCommunications  <br>
-MATLAB Code for Digital Communication Labs
+MATLAB Code for Digital Communication Labs  <br>
 Lab0 : MATLAB Commands  <br>
 Lab1 : Upsampling and Downsampling  <br>
 Lab2 : Simulation of Random Events   <br>
