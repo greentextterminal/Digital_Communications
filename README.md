@@ -1,6 +1,6 @@
-# DigitalCommunications   return
-Lab0 : MATLAB Commands   return
-Lab1 : Upsampling and Downsampling   return
+# DigitalCommunications  
+Lab0 : MATLAB Commands  <br>
+Lab1 : Upsampling and Downsampling  <br>
 Lab2 : Simulation of Random Events   return
 Lab3 : Quantization   return
 Lab4 : Source Coding   return
